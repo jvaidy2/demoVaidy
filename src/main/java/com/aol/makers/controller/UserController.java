@@ -19,8 +19,8 @@ public class UserController {
     
     private String authUrl = "https://i.aol.com/oauth2/token";
     
-    @Autowired
-    CustomerRepository repository;
+//    @Autowired
+//    CustomerRepository repository;
     
 
     @RequestMapping("/greeting")
