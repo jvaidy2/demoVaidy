@@ -9,6 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>demo</name>
+	
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -54,6 +55,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>demo</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -61,5 +63,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	
 </project>
