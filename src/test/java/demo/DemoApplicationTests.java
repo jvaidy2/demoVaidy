@@ -7,7 +7,7 @@ import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.aol.makers.Application;
+import com.vaidy.demo.Application;
 
 
 @RunWith(SpringJUnit4ClassRunner.class)
