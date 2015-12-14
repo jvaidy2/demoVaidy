@@ -21,7 +21,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<start-class>com.aol.makers.Application</start-class>
+		<start-class>com.vaidy.demo.Application</start-class>
 		<java.version>1.7</java.version>
 	</properties>
 
